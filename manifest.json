@@ -12,7 +12,7 @@
     "commands": {
         "_execute_browser_action": {
             "suggested_key": {
-                "default":"Option+Ctrl+M" || "Alt+Ctrl+M"
+                "default":"Alt+M"
             }
         }
      }
